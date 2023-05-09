@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pizza-React/static/css/main.c2cab247.css",
+    "main.js": "/Pizza-React/static/js/main.92cc996b.js",
+    "index.html": "/Pizza-React/index.html",
+    "main.c2cab247.css.map": "/Pizza-React/static/css/main.c2cab247.css.map",
+    "main.92cc996b.js.map": "/Pizza-React/static/js/main.92cc996b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.92cc996b.js"
+  ]
+}
